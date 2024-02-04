@@ -1,1 +1,4 @@
-print("Hello")
+def(a):
+  print("a)
+
+a="Hello"
